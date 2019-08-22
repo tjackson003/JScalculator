@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,4BAA4B;CAC5C",
-    "sources": [
-        "calc.scss"
-    ],
-    "names": [],
-    "file": "calc.css"
-}
