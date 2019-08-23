@@ -51,3 +51,20 @@ for(let i = 0; i < buttons.length; i++) {
         };
     });
 };
+
+
+// LITERALLY THE SIMPLER VERSION OF THE LOOP ABOVE
+// for(let i = 0; i < buttons.length; i++) {
+//     let button = buttons[i];
+
+//     button.addEventListener("click", function() {
+//         switch(button.classList.contains("action")) {
+//             case true:
+//                 callAction(button);
+//                 break;
+//             case false:
+//                 concatOperation(button);
+//                 break;
+//         };
+//     });
+// };
